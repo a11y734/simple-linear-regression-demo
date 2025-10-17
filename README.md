@@ -5,7 +5,7 @@
 
 ---
 
-## 🧩 功能
+##  功能
 - 遵循 CRISP-DM 六階段（商業理解、資料理解、資料準備、建模、評估、部署）
 - 可互動調整：
   - 斜率 a
@@ -17,16 +17,22 @@
 
 ---
 
-## 🚀 本地執行方式
+##  本地執行方式
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-## 🌐 線上 Demo
-https://simple-linear-regression-demo-jpxqwh6gi65xzymh5ucuan.streamlit.app/
+---
 
-## 📝 Promote
+## 🌐 線上 Demo  
+
+點此觀看線上 Demo
+
+---
+
+## Promote
+
 write python to solve simple linear regression problem,
 
 CRISP-DM
