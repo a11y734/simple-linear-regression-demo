@@ -22,4 +22,10 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-demo
+demo 網址:https://simple-linear-regression-demo-jpxqwh6gi65xzymh5ucuan.streamlit.app/
+promote:
+write python to solve simple linear regression problem,
+1. CRISP-DM
+2. allow user to modify a in ax+b, noise, number of points
+3. streamlit or flask web, 框架 deployment
+giveme complete code,列出所需要安裝的套件及流程
