@@ -22,10 +22,11 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-🌐 線上 Demo
+
+## 🌐 線上 Demo
 https://simple-linear-regression-demo-jpxqwh6gi65xzymh5ucuan.streamlit.app/
 
-📝 Promote
+## 📝 Promote
 write python to solve simple linear regression problem,
 
 CRISP-DM
