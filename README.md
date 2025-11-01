@@ -59,7 +59,7 @@ streamlit run app.py
 
 [🌐 **Streamlit 線上 Demo 連結**](https://simple-linear-regression-demo-jpxqwh6gi65xzymh5ucuan.streamlit.app/)
 
-## 🚀 Promote
+## 🚀 Prompt
 
 write python to solve simple linear regression problem,
 1.CRISP-DM
